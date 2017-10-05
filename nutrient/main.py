@@ -1,5 +1,6 @@
 import sys
 
+
 def main(argv=sys.argv[1:]):
     print " ".join(argv)
     return 0

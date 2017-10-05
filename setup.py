@@ -20,7 +20,6 @@ setup(name='nutrient',
       zip_safe=False,
 
       entry_points={
-        'console_scripts': [
-            'nutrient = nutrient.main:main'
-        ] })
-
+          'console_scripts': [
+              'nutrient = nutrient.main:main'
+          ]})
