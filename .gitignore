@@ -2,3 +2,5 @@ nutrient.egg-info
 env
 build
 dist
+.cache
+*.pyc

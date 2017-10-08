@@ -15,7 +15,7 @@ setup(name='nutrient',
       author_email='stefan.wolfsheimer@gmail.com',
       license='MIT',
 
-      packages=['nutrient'],
+      packages=['nutrient', 'cliapp'],
       install_requires=[],
       zip_safe=False,
 
